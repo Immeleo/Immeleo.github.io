@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T14:09:24.938Z" agent="5.0 (X11)" etag="G_87eBfO-SBRcxZ0JUtr" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-25T14:10:16.625Z" agent="5.0 (X11)" etag="k4LIf_LUDQGXUXPsbQ5M" version="14.2.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1935" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -568,11 +568,11 @@
         <mxCell id="ptMIMo2i4ebKNfrTVsFo-16" value="&lt;b&gt;N =(C,T,F,L,&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;λ&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="-1070" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ptMIMo2i4ebKNfrTVsFo-17" value="&lt;b&gt;C = {c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20}&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="-1050" width="450" height="20" as="geometry" />
+        <mxCell id="ptMIMo2i4ebKNfrTVsFo-17" value="&lt;b&gt;C = {c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20,c21}&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="-1050" width="490" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ptMIMo2i4ebKNfrTVsFo-18" value="&lt;b&gt;T={t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11,t12,t13,t14,t15,t16,t17,t18,t19}&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35.08" y="-1020" width="380" height="20" as="geometry" />
+        <mxCell id="ptMIMo2i4ebKNfrTVsFo-18" value="&lt;b&gt;T={t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11,t12,t13,t14,t15,t16,t17,t18}&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50.08" y="-1020" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ptMIMo2i4ebKNfrTVsFo-19" value="F={()}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="-990" width="50" height="20" as="geometry" />
