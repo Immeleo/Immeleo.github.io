@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T12:33:37.986Z" agent="5.0 (X11)" etag="ieIRz_UqMlQR7HEFuxxj" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T12:37:50.595Z" agent="5.0 (X11)" etag="-7Y-les7oysIlIgV07-W" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1695" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -507,6 +507,15 @@
         </mxCell>
         <mxCell id="H8LJvpcK38ozFM1UjVnZ-181" value="&lt;div&gt;Claim&lt;/div&gt;&lt;div&gt;Process&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="116.12" y="-80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8LJvpcK38ozFM1UjVnZ-182" value="" style="endArrow=classic;html=1;exitX=0.015;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H8LJvpcK38ozFM1UjVnZ-98" target="H8LJvpcK38ozFM1UjVnZ-136">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-160" as="sourcePoint" />
+            <mxPoint x="420" y="-210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="-70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
