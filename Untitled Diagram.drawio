@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T13:33:47.006Z" agent="5.0 (X11)" etag="gnqrZtGhWbZffITuc9jX" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-25T14:04:57.019Z" agent="5.0 (X11)" etag="lSDQum4OjBnl8yAJQHi9" version="14.2.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1935" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
             <mxPoint x="420" y="-210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8LJvpcK38ozFM1UjVnZ-178" value="t16" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="H8LJvpcK38ozFM1UjVnZ-178" value="t18" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120.37" y="-111.5" width="51.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="H8LJvpcK38ozFM1UjVnZ-179" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H8LJvpcK38ozFM1UjVnZ-160" target="H8LJvpcK38ozFM1UjVnZ-178" edge="1">
@@ -564,6 +564,15 @@
         </mxCell>
         <mxCell id="ptMIMo2i4ebKNfrTVsFo-15" value="&lt;b&gt;&lt;u&gt;Claim Sub-Process&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="425" y="-115" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptMIMo2i4ebKNfrTVsFo-16" value="&lt;b&gt;N =(C,T,F,L,&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;λ&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="-1070" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptMIMo2i4ebKNfrTVsFo-17" value="&lt;b&gt;C = {c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20}&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="-1050" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptMIMo2i4ebKNfrTVsFo-18" value="T=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="-1020" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
