@@ -67,14 +67,16 @@
        MD5 has been deprecated for uses other than as a non-cryptographic checksum to verify data integrity and detect unintentional data corruption.
   	</p>
   	<h2>
-  		Cryptography
+  		How it Works
   	</h2>
     <p>
-      To see an image impression click here:
+      The algorithm takes as input a message of arbitrary length and produces as output a 128-bit 'fingerprint' or 'message digest' of the input.
+      It is conjectured that it is computationally infeasible to produce two messages having the same message digest, or to produce any message
+      having a given pre-specified target message digest. The MD5 algorithm is intended for digital signature applications, where a large file must
+      be 'compressed' in a secure manner before being encrypted with a private (secret) key under a public-key cryptosystem such as RSA.
     </p>
-    <p>
-      <img class="small" id="smart_thumbnail" src="https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/code-cryptography-encryption-dev-development-apps-application-security-appsec.jpg?itok=ngpVgMzC">
-    </p>
+    
+      
     <p>
   		Cryptography is the science of secret writing with the goal of hiding the meaning of a message. It is associated with the process of converting ordinary plain text into unintelligible text and vice-versa. To achieve this, cyrptography is further split into three main branches: 
   		<em>
