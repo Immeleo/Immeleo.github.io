@@ -8,6 +8,7 @@ header {
 body {
 	flex-direction: column;
 	display: flex;
+	background-color: ECEAE9;
 }
 article {
 	flex: 2;
