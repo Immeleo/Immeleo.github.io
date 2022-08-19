@@ -29,7 +29,8 @@ h1 {
 }
 
 footer {
-  background-color: white;
- 
-  padding: 20px;
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
 }
